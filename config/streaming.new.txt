@@ -1,1 +1,22 @@
+[SETUP]
+CITY=Kyiv
+DELAY=5
 
+[OPTIONS]
+MODE=LOOP
+TYPE=STREAMING
+TIMESTAMP=START
+
+[CONFIG]
+WATCH_URL=https://www.twitch.tv/keenssy
+TEXT_1={F4({HR_24}:{MN_24}」⌯ {TH_DT_N}/{TH_MTH_N}/{EN_YR_L})}
+TEXT_2=your text
+TEXT_3=️🌡️ {TMP_C} °C ⌯ ☀️ {FEL_C} °C
+TEXT_3=🌤️ UV Index {UV} ⌯ 🍃 {WND_KPH} km/h
+TEXT_3=🌥️ {PRCP_MM} mm ⌯ 🌪️ {GST_KPH} km/h
+TEXT_3=🥶 HE Index {HIDX_C} °C ⌯ 🌫️ {VIS_KM} km/h
+TEXT_3=💧 {HUMT}  % ⌯ ☁ {CLD}  %
+IMG_BIG={DEFAULT_BIMG}
+IMG_SMALL={DEFAULT_SIMG}
+BUTTON_1=[PSQD SERVER](https://discord.gg/XJpDP58hpd)
+BUTTON_2=[PSQD SERVER](https://discord.gg/XJpDP58hpd)
