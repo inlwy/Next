@@ -24,13 +24,13 @@
 | Variable  | Result | Description |
 | ------- |:------:| ----------- |
 | {EN_DT_N} | 17th | Date (1-2 digits followed by a sequence symbol) |
-| {EN_DT_S} | Thu | Name of the day (abbreviated) |
+| {EN_DT_S} | Thurs. | Name of the day (abbreviated) |
 | {EN_DT_L} | Thursday | Name of day (full) |
 | {EN_MTH_N} | 10 | Month (1-2 digits) |
-| {EN_MTH_S} | Otc | Month name (abbreviated) |
+| {EN_MTH_S} | Oct. | Month name (abbreviated) |
 | {EN_MTH_L} | October | Month name (full form) |
-| {EN_YR_S} | 24 | Year (abbreviated) |
-| {EN_YR_L} | 2024 | Year (full) |
+| {EN_YR_S} | 25 | Year (abbreviated) |
+| {EN_YR_L} | 2025 | Year (full) |
 
 # Weather
 > **Reference information : [weatherapi](https://www.weatherapi.com/)**
